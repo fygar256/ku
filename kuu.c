@@ -44,7 +44,7 @@ void genperm1(void)
 int	main(int argc,char *argv[])
 {
 	if (argc!=2) {
-		fprintf(stderr,"Usage ku word\n");
+		fprintf(stderr,"Usage kuu word\n");
 		exit(1);
 		}
 	sscanf(*(++argv),"%s",word);
