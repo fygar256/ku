@@ -1,4 +1,4 @@
-# ku
+# kuu
 順列による文字列発生プログラム
 
 与えられた文字列の順番を入れ替えて、全てを表示します。
@@ -13,7 +13,7 @@ n!個の文字列が出力されるので、長い文字列だと、最後まで
 
 to compile:
 
-cc ku.c -o ku
+cc kuu.c -o kuu
 
 Usage:
-ku word
+kuu word
